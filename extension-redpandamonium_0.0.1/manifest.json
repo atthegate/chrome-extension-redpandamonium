@@ -1,0 +1,21 @@
+{
+   "browser_action": {
+      "default_icon": {
+         "19": "/img/redpanda_19.png",
+         "38": "/img/redpanda_38.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "Red Pandamonimum"
+   },
+   "description": "All of the red panda gifs you've ever wanted!",
+   "icons": {
+      "128": "/img/redpanda_128.png",
+      "16": "/img/redpanda_16.png",
+      "48": "/img/redpanda_48.png"
+   },
+   "manifest_version": 2,
+   "name": "Red Pandamonium",
+   "permissions": [ "tabs", "contextMenus" ],
+   "version": "0.0.1",
+   "author": "Jon Engelsman"
+}
