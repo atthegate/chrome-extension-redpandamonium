@@ -19,6 +19,6 @@ Open the extension in Chrome...
 <li>Load unpacked extensions...</li>
 <li>Navigate to the extension-redpandamonium_0.0.1 folder and select it</li>
 <li>...</li>
-<li>bask in the tumbly cuteness of red pandas!</li>
+<li>Bask in the tumbly cuteness of red pandas!</li>
 
 ![Alt text](/images/redpandamonium.png?raw=true "Red Pandamonium")
