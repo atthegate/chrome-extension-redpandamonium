@@ -12,6 +12,13 @@ Shamelessly edited as follows...
 <li>Added some custom red panda 8-bit images</li>
 </ul>
 
-Open the plugin and bask in the tumbly cuteness of red pandas...
+Open the extension in Chrome...
+<ul>
+<li>Go to chrome://extensions/</li>
+<li>Turn on Developer Mode</li> 
+<li>Load unpacked extensions...</li>
+<li>Navigate to the extension-redpandamonium_0.0.1 folder and select it</li>
+<li>...</li>
+<li>bask in the tumbly cuteness of red pandas!</li>
 
 ![Alt text](/images/redpandamonium.png?raw=true "Red Pandamonium")
