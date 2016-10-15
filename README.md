@@ -8,7 +8,7 @@ Based on the official Giphy for Chrome extension (v0.1.1.0): https://chrome.goog
 
 Shamelessly edited as follows...
 <ul>
-<li>Modified init.js to hard-code giphy search > GiphySearch.search("red panda", 100, true);</li>
+<li>Modified init.js to hard-code giphy search >>> GiphySearch.search("red panda", 100, true);</li>
 <li>Added some custom red panda 8-bit images</li>
 </ul>
 
